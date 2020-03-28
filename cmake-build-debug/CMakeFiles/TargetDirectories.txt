@@ -1,0 +1,3 @@
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/PointerChasing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/PointerChasing/cmake-build-debug/CMakeFiles/PointerChasing.dir
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/PointerChasing/cmake-build-debug/CMakeFiles/edit_cache.dir

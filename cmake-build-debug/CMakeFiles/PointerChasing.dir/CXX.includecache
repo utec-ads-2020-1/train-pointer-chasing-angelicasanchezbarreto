@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/PointerChasing/funciones.cpp
+sstream
+-
+cctype
+-
+funciones.h
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/PointerChasing/funciones.h
+
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/PointerChasing/funciones.h
+iostream
+-
+
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/PointerChasing/main.cpp
+vector
+-
+iterator
+-
+funciones.cpp
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/PointerChasing/funciones.cpp
+
